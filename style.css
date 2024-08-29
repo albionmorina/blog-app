@@ -388,7 +388,20 @@ footer ul a:hover{
     color: white;
 }
 
-
+/* ================================== category posts ====================================== */
+.category__title{
+    height: 15rem;
+    margin-top: 4.5rem;
+    background: var(--color-gray-900);
+    display: grid;
+    place-items: center;
+}
+/* ================================== Empty Pages ====================================== */
+.empty__page{
+    height: 70vh;
+    display: grid;
+    place-content: center;
+}
 
 /* ================================== media queries medium devices ====================================== */
 
